@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Trần Minh Đức",
+        "email": "sttchat123@gmail.com",
+        "course_code": "KH001",
+        "date": "2025-06-20",
+        "cost": 2000000
+    },
+    {
+        "name": "Tran Minh DUc",
+        "email": "stt2@gmail.com",
+        "course_code": "KH001",
+        "date": "2025-06-19",
+        "cost": 1000000
+    }
+]
