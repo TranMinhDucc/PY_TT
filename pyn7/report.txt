@@ -1,0 +1,12 @@
+ Báo cáo tổng kết:
+- Tổng bài tập của An: 18
+- Điểm trung bình của An: 9.00
+- Tổng bài tập của Bình: 14
+- Điểm trung bình của Bình: 7.67
+- Tổng bài tập của Cường: 18
+- Điểm trung bình của Cường: 9.33
+- Tổng bài tập của Dương: 12
+- Điểm trung bình của Dương: 6.83
+- Tổng bài tập của Hoa: 18
+- Điểm trung bình của Hoa: 8.83
+- Học viên tiến bộ nhất: Dương (tăng 1.50 điểm)
